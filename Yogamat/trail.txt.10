@@ -1,0 +1,106 @@
+﻿!trail file version No. 2530
+!Creo  TM  12  (c) 2025 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 16160
+!	Application: Creo_Parametric
+!	Start date&time: 2025/11/07  13:59:04
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 12.4.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\Users\Public\Documents\CREO\Yogamat\traceback.log
+!end Exit Logger data.
+< 0 1.206519 1912 0 0 1018 1920 0 0 1080 13
+!mem_use INCREASE Blocks 995950, AppSize 16036495, SysSize 37417336
+< 0 1.064000 1064 0 0 998 1920 0 0 1080 13
+< 0 1.067000 1067 0 0 998 1920 0 0 1080 13
+< 0 1.067000 1067 0 0 1001 1920 0 0 1080 13
+< 0 1.067000 1067 0 0 1004 1920 0 0 1080 13
+< 0 0.960000 960 0 0 1004 1920 0 0 1080 13
+< 0 0.911407 1132 0 0 769 1920 0 0 1080 13
+< 0 0.911407 1115 0 0 769 1920 0 0 1080 13
+< 0 0.910222 1115 0 0 768 1920 0 0 1080 13
+!%CD 7-Nov-25 13:59:05
+!%CI13:59:05 Welcome to Creo Parametric Educational Edition 12.4.0.0.
+!AFX datecode: 12.4.0.0-rc.1 2025.03.05
+!AFX exec path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\x86e_win64\afx120.dll
+!AFX text path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\
+< 0 0.910222 1180 0 0 768 1920 0 0 1080 13
+< 0 0.904296 1180 0 0 763 1920 0 0 1080 13
+0.000000 0.000000 N 0 0.904296296 0
+0.000000 0.000000 N 0 0.904296296 0
+!%CP13:59:05 Enter object name: 
+!%TR
+C:\Users\Public\Documents\CREO\Yogamat\yogamatfolderdes1.prt.1
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+!mem_use INCREASE Blocks 1060877, AppSize 43133242, SysSize 65595984
+~ Trail `` `` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+! 7-Nov-25 13:59:06  Start C:\Users\Public\Documents\CREO\Yogamat\yogamatfolderdes1.prt.1
+!LIGHT_FIX_MODEL_RMODE is 51
+! 7-Nov-25 13:59:06  End   C:\Users\Public\Documents\CREO\Yogamat\yogamatfolderdes1.prt.1
+@ oa_sel_filter_set _90_
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 0.904296 1199 0 0 763 1920 0 0 1080 13
+< 0 0.904296 1200 0 0 763 1920 0 0 1080 13
+< 0 0.904296 1106 0 0 763 1920 0 0 1080 13
+< 0 0.904296 1199 0 0 763 1920 0 0 1080 13
+< 0 0.904296 1200 0 0 763 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `` `` `EmbedBrowserTimer`
+< 0 0.916148 1722 0 0 773 1920 0 0 1080 13
+~ Resize `main_dlg_cur` `main_dlg_cur` 0
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1193 531 0 2 1722 773 1920 1080 73455
+~ Move `main_dlg_cur` `proe_win` 9 1194 532 0 1538 1722 773 1920 1080 73475
+~ Move `main_dlg_cur` `proe_win` 9 1195 533 0 1538 1722 773 1920 1080 73488
+~ Move `main_dlg_cur` `proe_win` 9 1196 533 0 514 1722 773 1920 1080 73492
+~ Move `main_dlg_cur` `proe_win` 9 1200 534 0 1538 1722 773 1920 1080 73500
+~ Move `main_dlg_cur` `proe_win` 9 1202 534 0 514 1722 773 1920 1080 73509
+~ Move `main_dlg_cur` `proe_win` 9 1205 535 0 1538 1722 773 1920 1080 73513
+~ Move `main_dlg_cur` `proe_win` 9 1206 535 0 514 1722 773 1920 1080 73530
+~ Move `main_dlg_cur` `proe_win` 9 1207 535 0 514 1722 773 1920 1080 73538
+~ Move `main_dlg_cur` `proe_win` 9 1209 535 0 514 1722 773 1920 1080 73545
+~ Move `main_dlg_cur` `proe_win` 9 1212 535 0 514 1722 773 1920 1080 73557
+~ Move `main_dlg_cur` `proe_win` 9 1215 535 0 514 1722 773 1920 1080 73569
+~ Move `main_dlg_cur` `proe_win` 9 1219 535 0 514 1722 773 1920 1080 73581
+~ Move `main_dlg_cur` `proe_win` 9 1222 535 0 514 1722 773 1920 1080 73594
+~ Move `main_dlg_cur` `proe_win` 9 1223 535 0 514 1722 773 1920 1080 73606
+~ Move `main_dlg_cur` `proe_win` 9 1224 535 0 514 1722 773 1920 1080 73620
+~ Move `main_dlg_cur` `proe_win` 9 1225 535 0 514 1722 773 1920 1080 73633
+~ Move `main_dlg_cur` `proe_win` 9 1226 535 0 514 1722 773 1920 1080 73645
+~ Move `main_dlg_cur` `proe_win` 9 1226 536 0 1026 1722 773 1920 1080 73844
+~ Move `main_dlg_cur` `proe_win` 9 1224 536 0 514 1722 773 1920 1080 73859
+~ Move `main_dlg_cur` `proe_win` 9 1223 537 0 1538 1722 773 1920 1080 73866
+~ Move `main_dlg_cur` `proe_win` 9 1221 537 0 514 1722 773 1920 1080 73882
+~ Move `main_dlg_cur` `proe_win` 9 1218 538 0 1538 1722 773 1920 1080 73890
+~ Move `main_dlg_cur` `proe_win` 9 1216 538 0 514 1722 773 1920 1080 73906
+~ Move `main_dlg_cur` `proe_win` 9 1214 538 0 514 1722 773 1920 1080 73917
+~ Move `main_dlg_cur` `proe_win` 9 1210 539 0 1538 1722 773 1920 1080 73922
+~ Move `main_dlg_cur` `proe_win` 9 1209 539 0 514 1722 773 1920 1080 73929
+~ Move `main_dlg_cur` `proe_win` 9 1208 539 0 514 1722 773 1920 1080 73947
+~ Move `main_dlg_cur` `proe_win` 9 1207 540 0 1538 1722 773 1920 1080 73964
+~ Move `main_dlg_cur` `proe_win` 9 1206 540 0 514 1722 773 1920 1080 74146
+~ Move `main_dlg_cur` `proe_win` 9 1205 540 0 514 1722 773 1920 1080 74170
+~ Move `main_dlg_cur` `proe_win` 9 1204 541 0 1538 1722 773 1920 1080 74186
+~ Move `main_dlg_cur` `proe_win` 9 1203 541 0 514 1722 773 1920 1080 74210
+~ Move `main_dlg_cur` `proe_win` 9 1202 541 0 514 1722 773 1920 1080 74219
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1202 541 0 0 1722 773 1920 1080 74388
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 67108864 0 1722 773 1920 1080 76685
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 0 0 1722 773 1920 1080 79032
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 67108864 0 1722 773 1920 1080 79579
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 0 0 1722 773 1920 1080 80302
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 67108864 0 1722 773 1920 1080 80803
+~ Move `main_dlg_cur` `proe_win` 9 1398 467 0 0 1722 773 1920 1080 81506
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!%CW14:01:06 New objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+!End of Trail File

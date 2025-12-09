@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Model_3dxml xmlns="http://www.3ds.com/xsd/3DXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Header>
+		<SchemaVersion>4.3</SchemaVersion>
+		<Title>Product2 3D XML File</Title>
+		<Author>ksshi</Author>
+		<Generator>CATIA V5</Generator>
+		<Created>2025-10-14</Created>
+	</Header>
+	<ProductStructure root="1">
+		<Reference3D xsi:type="Reference3DType" id="1" name="Product2"/>
+		<Instance3D xsi:type="Instance3DType" id="2" name="Part3.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>3</IsInstanceOf>
+			<RelativeMatrix>-0.0157737532802637 0.0155058816378818 -0.999755348243802 -0.701025574870404 -0.713136132430282 0 -0.712961662423074 0.700854067732371 0.0221188529972652 0 0 0</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="3" name="Part3"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="4" name="Part3_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:updated_Body.3DRep">
+			<PLM_ExternalID>Part3_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="5" name="Part3_InstanceRep">
+			<IsAggregatedBy>3</IsAggregatedBy>
+			<IsInstanceOf>4</IsInstanceOf>
+		</InstanceRep>
+		<Instance3D xsi:type="Instance3DType" id="6" name="Part5.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>7</IsInstanceOf>
+			<RelativeMatrix>-0.701025574870406 -0.713136132430285 -2.87522143184588e-018 0.712961662423081 -0.700854067732372 -0.0221188529972638 0.0157737532802677 -0.0155058816378779 0.999755348243804 166.894874697241 169.778064781774 3.39573275011757e-014</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="7" name="Part5"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="8" name="Part5_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:Shaft_final_updated.3DRep">
+			<PLM_ExternalID>Part5_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="9" name="Part5_InstanceRep">
+			<IsAggregatedBy>7</IsAggregatedBy>
+			<IsInstanceOf>8</IsInstanceOf>
+		</InstanceRep>
+		<Instance3D xsi:type="Instance3DType" id="10" name="Part8.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>11</IsInstanceOf>
+			<RelativeMatrix>-0.701025574870403 -0.713136132430282 -3.16457982246522e-018 -0.712961662423075 0.700854067732372 0.0221188529972653 -0.0157737532802637 0.0155058816378819 -0.999755348243802 -0.0243586729756089 -0.11628066999279 2.89929050990707</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="11" name="Part8"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="12" name="Part8_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:plate_updated.3DRep">
+			<PLM_ExternalID>Part8_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="13" name="Part8_InstanceRep">
+			<IsAggregatedBy>11</IsAggregatedBy>
+			<IsInstanceOf>12</IsInstanceOf>
+		</InstanceRep>
+		<Instance3D xsi:type="Instance3DType" id="14" name="Part7screw.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>15</IsInstanceOf>
+			<RelativeMatrix>0.999875579133835 0.000122307937100224 -0.0157737532802637 0.000122307937100227 0.999879769109967 0.0155058816378819 0.0157737532802637 -0.0155058816378819 0.999755348243802 34.4275174458945 36.1297494537608 -35.0914127233574</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="15" name="Part7screw"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="16" name="Part7screw_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:Part7screw.3DRep">
+			<PLM_ExternalID>Part7screw_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="17" name="Part7screw_InstanceRep">
+			<IsAggregatedBy>15</IsAggregatedBy>
+			<IsInstanceOf>16</IsInstanceOf>
+		</InstanceRep>
+		<Instance3D xsi:type="Instance3DType" id="18" name="Symmetry of Part7screw.1.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>19</IsInstanceOf>
+			<RelativeMatrix>0.0170018658890762 -0.999731026458489 -0.0157737532802637 0.999731026458489 0.0172465176452745 -0.0155058816378819 0.0157737532802638 -0.0155058816378819 0.999755348243802 -35.5348349261705 -35.0412365627801 -35.0914127233574</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="19" name="Symmetry of Part7screw"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="20" name="Symmetry of Part7screw_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:Symmetry_of_Part7screw.3DRep">
+			<PLM_ExternalID>Symmetry of Part7screw_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="21" name="Symmetry of Part7screw_InstanceRep">
+			<IsAggregatedBy>19</IsAggregatedBy>
+			<IsInstanceOf>20</IsInstanceOf>
+		</InstanceRep>
+		<Instance3D xsi:type="Instance3DType" id="22" name="Part4Arm.1">
+			<IsAggregatedBy>1</IsAggregatedBy>
+			<IsInstanceOf>23</IsInstanceOf>
+			<RelativeMatrix>0.508563143377625 -0.499926667197794 0.7010255748704 -0.499926667197794 0.491436856622375 0.713136132430285 -0.7010255748704 -0.713136132430285 -7.27308302622148e-017 133.370115619093 135.674149194862 0</RelativeMatrix>
+		</Instance3D>
+		<Reference3D xsi:type="Reference3DType" id="23" name="Part4Arm"/>
+		<ReferenceRep xsi:type="ReferenceRepType" id="24" name="Part4Arm_ReferenceRep" format="UVR" version="1.0" associatedFile="urn:3DXML:Part4Arm.3DRep">
+			<PLM_ExternalID>Part4Arm_ReferenceRep_ReferenceRep</PLM_ExternalID>
+			<V_discipline>Design</V_discipline>
+			<V_usage>3DShape</V_usage>
+			<V_nature>1</V_nature>
+		</ReferenceRep>
+		<InstanceRep xsi:type="InstanceRepType" id="25" name="Part4Arm_InstanceRep">
+			<IsAggregatedBy>23</IsAggregatedBy>
+			<IsInstanceOf>24</IsInstanceOf>
+		</InstanceRep>
+	</ProductStructure>
+	<DefaultView>
+		<Viewpoint xsi:type="ParallelViewpointType" visualizedHeight="179.9743205" targetDistance="749.6471558" nearPlaneDistance="244.1078796" farPlaneDistance="1111.962036">
+			<Position>356.8520508 610.1384888 210.3487854</Position>
+			<Sight>-0.4552368224 -0.8130390048 -0.3629423976</Sight>
+			<Right>-0.88741225 0.3811160326 0.259326309</Right>
+			<Up>0.07251924276 -0.4401343763 0.8949987888</Up>
+		</Viewpoint>
+	</DefaultView>
+</Model_3dxml>
