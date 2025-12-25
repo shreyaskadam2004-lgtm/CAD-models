@@ -1,0 +1,12 @@
+proepview 10.1.0 - Build: parametric11000 20.1.0.0-PDUNS1 x86e_win64
+Copyright (C) 2000-2023 PTC Inc. All Rights Reserved.
+
+proepview Warning: Unable to locate prt0003.prt
+Recipe file: C:/Program Files/PTC/Creo 11.0.0.0/Common Files/text/prodview/export_ed.rcp
+Source file: prt0003.prt
+Output file: C:/Users/RM/OneDrive/Documents/CREO/part design simple 1/PART4.ed
+proepview Warning: Ignoring Double Precision Geometry recipe setting because of incompatible Output Creo View version,
+		 set Output Creo View version as "Creo 1.0" or above to enable it.
+Processing prt0003.prt : COMPLETE
+Getting Mass Properties : COMPLETE
+Generating Output : COMPLETE

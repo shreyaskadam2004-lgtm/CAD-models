@@ -1,0 +1,11 @@
+proepview 10.1.0 - Build: parametric11000 20.1.0.0-PDUNS1 x86e_win64
+Copyright (C) 2000-2023 PTC Inc. All Rights Reserved.
+
+Recipe file: C:/Program Files/PTC/Creo 11.0.0.0/Common Files/text/prodview/export_ed.rcp
+Source file: C:/Users/Public/Documents/part5.prt.2
+Output file: C:/Users/RM/OneDrive/Documents/CREO/part design simple 1/part5.ed
+proepview Warning: Ignoring Double Precision Geometry recipe setting because of incompatible Output Creo View version,
+		 set Output Creo View version as "Creo 1.0" or above to enable it.
+Processing part5.prt : COMPLETE
+Getting Mass Properties : COMPLETE
+Generating Output : COMPLETE
